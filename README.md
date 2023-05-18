@@ -2,9 +2,9 @@
 
 ##	Frontend
 *	 [Generador de contraseñas](https://github.com/mssj-11/Password_Generator-JS)
-*	 [Cifrado en Base64]( https://github.com/mssj-11/Cifrado-en-Base64)
-*	 [Cifrado de Cesar]( https://github.com/mssj-11/Cifrado-de-Cesar-js)
-*	 [Cifrado de Cesar con alfabeto en español]( https://github.com/mssj-11/Cifrado-de-Cesar-ES-js)
+*	 [Cifrado en Base64](https://cifrado-en-base64.netlify.app/)
+*	 [Cifrado de Cesar](https://cifrado-de-cesar.netlify.app/)
+*	 [Cifrado de Cesar con alfabeto en español](https://cifrado-de-cesar-es.netlify.app/)
 *	 [Cifrado de Hill con alfabeto en español](https://github.com/mssj-11/Cifrado-de-Hill-ES)
 *	 [Carrito de Compras](https://github.com/mssj-11/Ecommerce_carrito_de_compras_js)
 *	 [Clone SpaceX-2023]( https://github.com/mssj-11/clone-space2023)
