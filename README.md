@@ -15,6 +15,11 @@
 *	 [Consumo de API GIPHY con JavaScript]( https://github.com/mssj-11/API-GIPHY_Js)
 [Consumo de PokeAPI: Pokemon Card Generator]( https://github.com/mssj-11/Pokemon_Card-Generator)
 *	 [QR Code Generator]( https://github.com/mssj-11/QR_Code_Generator)
+*	 [Consumo de API ChatGPT](https://github.com/mssj-11/ChatIA)
+*	 [Consumo de API Spiderman](https://github.com/mssj-11/Spiderman_API)
+*	 [Consumo de API Pixabay](https://github.com/mssj-11/buscador_imagenes_react)
+*	 [Tablero Kanban con VUE](https://github.com/mssj-11/tablero_kanban)
+*	 [Dividir Cuenta - VUE + Bootstrap 5](https://github.com/mssj-11/dividir_cuenta)
 *	 [Web GuitarLA]( https://github.com/mssj-11/Guitar_page)
 *	 [Arquitectura diseño de interiores](https://github.com/mssj-11/Architecture-Interior-Design-Responsive_Website)
 
@@ -32,6 +37,9 @@
 *	 [Exportar tablas MySQL a Excel con PHP]( https://github.com/mssj-11/ExportarTablas_a_Excel_PHP)
 *	 [App web sistema gestor de biblioteca-libros digitales
 (Python-Flask, HTML, Bootstrap).]()
+*	 [Login con Laravel y Next js](https://github.com/mssj-11/login-laravel-nextjs-breeze)
+*	 [CRUD con Laravel y Bootstrap](https://github.com/mssj-11/crud_tablas_relacionales)
+
 
 
 ###	API REST
@@ -41,7 +49,7 @@
 *	 [CRUD REST Spring + MongoDB + POSTMAN](https://github.com/mssj-11/spring-boot-mongodb-crud-api-rest)
 *	 [Spring Boot - MongoDB - API RestFul + POSTMAN](https://github.com/mssj-11/spring-boot-mongodb-api-restful)
 *	 [API REST con Node js](https://github.com/mssj-11/Node_js_API-REST_CRUD)
-
+*	 [API de Alumnos con Flight](https://github.com/mssj-11/API_PHP_Alumnos)
 
 
 
