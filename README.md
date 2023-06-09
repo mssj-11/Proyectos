@@ -1,4 +1,4 @@
-#	Proyectos realizados con mucho entusiasmo
+#	Proyectos realizados con mucho entusiasmo 💻
 
 ##	Frontend
 *	 [Generador de contraseñas](https://github.com/mssj-11/Password_Generator-JS)
