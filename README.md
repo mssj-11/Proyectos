@@ -51,7 +51,6 @@
 *	 [CRUD REST Spring + MongoDB + POSTMAN](https://github.com/mssj-11/spring-boot-mongodb-crud-api-rest)
 *	 [Spring Boot - MongoDB - API RestFul + POSTMAN](https://github.com/mssj-11/spring-boot-mongodb-api-restful)
 *	 [API REST con Node js](https://github.com/mssj-11/Node_js_API-REST_CRUD)
-*	 [API de Alumnos con Flight](https://github.com/mssj-11/API_PHP_Alumnos)
 
 
 
