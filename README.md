@@ -1,6 +1,7 @@
 #	Proyectos realizados con mucho entusiasmo 💻
 
 ##	Frontend
+*	[Gym Website](https://github.com/mssj-11/react-gym-website)
 *	 [Generador de contraseñas](https://github.com/mssj-11/Password_Generator-JS)
 *	 [Cifrado en Base64](https://cifrado-en-base64.netlify.app/)
 *	 [Cifrado de Cesar](https://cifrado-de-cesar.netlify.app/)
@@ -25,6 +26,10 @@
 
 
 ##	Backend
+*	[CRM Django + MySQL](https://github.com/mssj-11/CRM_django_MySQL)
+*	[Gym Management System](https://github.com/mssj-11/Gym_Management_MySQL)
+*	[Tiendita OXXO](https://github.com/mssj-11/Tiendita-OXXO)
+*	[Java web - Almacen](https://github.com/mssj-11/JavaWeb-Almacen)
 *	[CRUD Dragón Ball en Django + MySQL](https://github.com/mssj-11/CRUD_DragonBall_django)
 *	[App web sistema de gestión de cursos y certificados
 (PHP, SQL, HTML, Bootstrap)](https://github.com/mssj-11/App_Cursos-Certificados)
@@ -44,6 +49,9 @@
 
 
 ###	API REST
+*	[CRUD Spring Boot + MongoDB + Angular](https://github.com/mssj-11/crud_mdb_sb_a) / [Consumo](https://github.com/mssj-11/crud_mdb_sb_a_front)
+*	[REST API de los CDZ con MySQL](https://github.com/mssj-11/fastapi-mysql-cdz-restapi) / [Consumo](https://github.com/mssj-11/API_CDZ_FastAPI-JavaScript)
+*	[API CRUD con FastAPI](https://github.com/mssj-11/FastAPI-REST-API-CRUD)
 *	[API de Alumnos con Flight](https://github.com/mssj-11/API_PHP_Alumnos)
 *	 [Spring Boot - MongoDB - API CRUD + POSTMAN](https://github.com/mssj-11/spring-boot-mongodb-api-crud)
 *	 [Servicio REST(CRUD) con PostgreSQL y POSTMAN](https://github.com/mssj-11/spring-boot-examplewebservice)
